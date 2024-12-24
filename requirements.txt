@@ -1,0 +1,12 @@
+asyncio
+ssl
+json
+time
+uuid
+requests
+shutil
+loguru
+websockets
+fake-useragent
+psutil
+colorama
